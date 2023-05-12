@@ -9,7 +9,7 @@ growth.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit1-1&theme=radical" alt="rohit1-1" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://rohit1-1.github.io/my__portfolio/](https://rohit1-1.github.io/my__portfolio/)
 
