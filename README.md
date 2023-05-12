@@ -16,6 +16,7 @@ growth.
 - 💬 Ask me about **HTML, CSS JavaScript & React**
 
 - 📫 How to reach me **rohittkumar232@gmail.com**
+- 👨‍🎓 Check out my [Resume Here](https://drive.google.com/file/d/12EaM2ZZuxIxSOFVucN4JrKzWOeUrvIgc/view?usp=share_link)
 
 <a href="https://rohit1-1.github.io/my__portfolio/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rohit1-1.github.io/my__portfolio/" />
